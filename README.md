@@ -62,4 +62,4 @@ It is supported here only as a convenience.
 
 If you are interested in generating a parser from a grammar,
 or for a target other than CSharp,
-use [trgen](https://github.com/kaby76/Domemtech.Trash/tree/main/trgen).
+use [trgen](https://github.com/kaby76/Domemtech.Trash/tree/main/src/trgen).
